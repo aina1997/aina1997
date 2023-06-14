@@ -1,3 +1,6 @@
+![Header](header.png)
+
+
 ### Hi there 👋
 
 I'm Aina!
