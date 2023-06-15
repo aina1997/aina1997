@@ -1,5 +1,5 @@
 ![Header](header.png)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aina1997&label=Profile%20views&color=8fcfd4&style=flat" alt="aina1997" /> </p>
 
 ### Hi there 👋
 
